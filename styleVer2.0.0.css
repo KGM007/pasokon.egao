@@ -1,0 +1,55 @@
+form {
+  width: 500px;
+  margin: 50px auto;
+  text-align: center;
+  box-shadow: 0 0 10px #ccc;
+  border-radius: 20px;
+  background-color: #fff;
+  padding: 30px;
+}
+
+input[type="text"] {
+  width: 70%;
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 20px 0 0 20px;
+  border: none;
+  outline: none;
+  color: #333;
+  background-color: #f1f1f1;
+}
+
+input[type="submit"] {
+  width: 30%;
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 0 20px 20px 0;
+  border: none;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+}
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.small-image {
+  width: 200px;
+  height: auto;
+}
+
+.small-image {
+  display: block;
+  margin: 0 auto;
+}
+
+.rounded-image {
+  border-radius: 50%;
+}
+
+
+
+
+
+
